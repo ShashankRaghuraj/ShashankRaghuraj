@@ -17,9 +17,9 @@
 
   <h2>Here are some projects I've worked on!!</h2>
   <ul>
-    <li>Rock Climbing Growth Tracker and Community Building Platform 🧗‍♂️</li>
-    <li>AI-Enhanced Patient Assessment Tool called Physician 🩺</li>
-    <li>API Integrated Smart Home System called Mark 🏠</li>
+    <li>Pocket: Rock Climbing Growth Tracker and Community Building Platform 🧗‍♂️</li>
+    <li>Physician: AI-Enhanced Patient Assessment Tool called 🩺</li>
+    <li>M.A.R.K: API Integrated Smart Home System called 🏠</li>
   </ul>
 
   <h2>What I like to do outside of school</h2>
