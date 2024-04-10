@@ -2,4 +2,5 @@
   <img src="wallpaper.jpg" alt="Wallpaper">
 </p>
 
-## Hi! My name is Shashank
+<h1 align="center">Hi! My name is Shashank</h1>
+
