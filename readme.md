@@ -3,11 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    h1, h2 {
-      font-size: 1.5em; /* Adjust the font size as needed */
-    }
-  </style>
 </head>
 <body>
   <p align="center">
