@@ -3,6 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    h1, h2 {
+      font-size: 1.5em; /* Adjust the font size as needed */
+    }
+  </style>
 </head>
 <body>
   <p align="center">
@@ -15,14 +20,14 @@
     I'm a software developer with extreme interest in cloud development ☁️, solutions architecture 🏗️, and AI 🤖.
   </p>
 
-  <h2>Projects:</h2>
-  <ol>
+  <h2>Here are some projects I've worked on!!</h2>
+  <ul>
     <li>Rock Climbing Growth Tracker and Community Building Platform 🧗‍♂️</li>
     <li>AI-Enhanced Patient Assessment Tool called Physician 🩺</li>
     <li>API Integrated Smart Home System called Mark 🏠</li>
-  </ol>
+  </ul>
 
-  <h2>Hobbies:</h2>
+  <h2>What I like to do outside of school</h2>
   <ul>
     <li>Playing basketball 🏀</li>
     <li>Writing TV shows 📺</li>
