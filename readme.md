@@ -1,1 +1,1 @@
-![](southparkImage.png)
+![](wallpaper.jpg)
